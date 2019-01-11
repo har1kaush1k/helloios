@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func push(_ sender: Any) {
-        self.label.text = "I like Swift!"
+        self.label.text = "  I like Swift!"
     }
     
 }
